@@ -1,5 +1,5 @@
 """
-Author: <YOUR REAL FIRST AND LAST NAME>
+Author: Anthony Huete-Jacobs
 Assignment: #1
 """
 
